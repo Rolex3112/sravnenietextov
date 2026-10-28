@@ -1,0 +1,6 @@
+*.exe
+*.zip
+__debug_bin.exe
+.vscode/
+.vscode/
+qr.png
